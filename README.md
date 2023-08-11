@@ -1,2 +1,5 @@
 # demo_qa_2023
-whatever
+
+Enlistar todos:
+- Llegar de archivos el repositorio
+- Terminar
